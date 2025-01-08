@@ -1,0 +1,10 @@
+AgentsEnv
+
+csv_agent.py
+Ecommerce_Sales_Prediction_Dataset.csv
+housing data.csv
+llama-ocr.py
+llamav-vision.ipynb
+rag.ipynb
+
+.env

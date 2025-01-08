@@ -1,0 +1,6 @@
+langchain-community 
+faiss-cpu
+langchain
+numpy
+pandas
+torch
